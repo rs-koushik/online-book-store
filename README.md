@@ -21,6 +21,9 @@ The Online Book Store Website is a web application that allows users to browse, 
 - **Database:** SQL
 - **Payment Processing:** (if applicable)
 
+## Demo
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ## Installation
 
 1. Clone the repository:
@@ -28,3 +31,8 @@ The Online Book Store Website is a web application that allows users to browse, 
 ```bash
 git clone https://github.com/rs-koushik/online-book-store.git
 cd online-book-store
+
+
+
+
+
