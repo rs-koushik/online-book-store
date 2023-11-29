@@ -30,8 +30,8 @@ git clone https://github.com/rs-koushik/online-book-store.git
 cd online-book-store
 ```
 ## Usage
-1.Visit the website at http://localhost:3000 in your browser.
-2.Explore the book catalog, add books to your cart, and complete the checkout process.
+- Visit the website at http://localhost:3000 in your browser.
+- Explore the book catalog, add books to your cart, and complete the checkout process.
 
 ## Acknowledgement
 - Mention any libraries or resources you used.
