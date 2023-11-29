@@ -23,11 +23,22 @@ The Online Book Store Website is a web application that allows users to browse, 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/rs-koushik/online-book-store.git
 cd online-book-store
+```
+## Usage
+1.Visit the website at http://localhost:3000 in your browser.
+2.Explore the book catalog, add books to your cart, and complete the checkout process.
+
+## Acknowledgement
+- Mention any libraries or resources you used.
+- Give credit to contributors or inspiration sources.
+
+## Contact
+For any inquiries or issues, please contact koushikrs2002@gmail.com.
 
 
 
