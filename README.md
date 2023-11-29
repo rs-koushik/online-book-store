@@ -22,7 +22,7 @@ The Online Book Store Website is a web application that allows users to browse, 
 - **Payment Processing:** (if applicable)
 
 ## Demo
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/online-book-store/demo/screenshot.png?raw=true "Optional Title")
 
 ## Installation
 
