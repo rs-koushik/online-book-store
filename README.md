@@ -21,9 +21,6 @@ The Online Book Store Website is a web application that allows users to browse, 
 - **Database:** SQL
 - **Payment Processing:** (if applicable)
 
-## Demo
-![Uploading image.png…]()
-
 ## Installation
 
 1. Clone the repository:
